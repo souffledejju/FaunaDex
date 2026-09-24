@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="sharkcard" size="10.000000 14.144272" />
+    <ImageTarget name="buffalocard" size="10.000000 14.144272" />
+    <ImageTarget name="goatcard" size="10.000000 14.144272" />
+    <ImageTarget name="sheepcard" size="10.000000 14.144272" />
+    <ImageTarget name="elephantcard" size="10.000000 14.144272" />
+    <ImageTarget name="wolfcard" size="10.000000 14.144272" />
+    <ImageTarget name="tortoisecard" size="10.000000 14.144272" />
+    <ImageTarget name="dogcard" size="10.000000 14.144272" />
+    <ImageTarget name="penguincard" size="10.000000 14.144272" />
+    <ImageTarget name="horsecard" size="10.000000 14.144272" />
+    <ImageTarget name="deercard" size="10.000000 14.144272" />
+    <ImageTarget name="tigercard" size="10.000000 14.144272" />
+    <ImageTarget name="chickencardnewfix" size="10.000000 14.144272" />
+    <ImageTarget name="chickencardfix" size="1.000000 1.414427" />
+    <ImageTarget name="chickencard" size="2.000000 2.828854" />
+    <ImageTarget name="kartuKUCING" size="10.000000 14.144272" />
+  </Tracking>
+</QCARConfig>

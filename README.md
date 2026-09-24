@@ -1,0 +1,1 @@
+FaunaDex is an interactive educational application developed using Unity, C#, and Vuforia Engine that uses Augmented Reality (AR) to provide an engaging way to learn about different animal species, including their characteristics and habitats. As part of the team, I contributed to asset selection, voice-over sourcing, and the design of interactive animal cards.
