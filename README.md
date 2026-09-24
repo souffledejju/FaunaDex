@@ -53,11 +53,11 @@ Collaboratively built by:
   * Role: *UI/UX Designer & Multimedia Specialist*
   * Contributions: 3D asset selection and optimization, voice-over sourcing and audio integration, and interactive animal card interface design.
 
-* **[Nama Teman / Maxwell]**
+* **[maxwellcandra](https://github.com/maxwellcandra)**
   * Role: *AR Developer*
   * Contributions: Vuforia target database configuration, AR camera management, and tracking lifecycle scripting.
 
-* **[Nama Teman 2]**
+* **[Edbert-LY](https://github.com/Edbert-LY)**
   * Role: *Core Logic & Interaction Developer*
   * Contributions: UI state handling, 3D model manipulation scripts (pinch-to-scale, rotate), and scene navigation.
 
